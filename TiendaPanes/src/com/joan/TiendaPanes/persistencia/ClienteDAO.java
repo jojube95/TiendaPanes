@@ -1,4 +1,4 @@
-package com.joan.TiendaPane.persistencia;
+package com.joan.TiendaPanes.persistencia;
 
 import java.sql.Date;
 import java.sql.ResultSet;

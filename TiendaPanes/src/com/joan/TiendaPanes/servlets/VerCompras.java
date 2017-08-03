@@ -9,9 +9,10 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import javax.sql.DataSource;
-import com.joan.TiendaPane.persistencia.ConnectionManager;
-import com.joan.TiendaPane.persistencia.VentaDAO;
+
 import com.joan.TiendaPanes.modelo.Venta;
+import com.joan.TiendaPanes.persistencia.ConnectionManager;
+import com.joan.TiendaPanes.persistencia.VentaDAO;
 
 /**
  * Servlet implementation class VerCompras

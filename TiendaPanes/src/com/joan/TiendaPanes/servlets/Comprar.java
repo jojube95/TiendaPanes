@@ -12,13 +12,14 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import javax.sql.DataSource;
-import com.joan.TiendaPane.persistencia.ConnectionManager;
-import com.joan.TiendaPane.persistencia.StockDAO;
-import com.joan.TiendaPane.persistencia.TiendaDAO;
+
 import com.joan.TiendaPanes.modelo.Cliente;
 import com.joan.TiendaPanes.modelo.Panes;
 import com.joan.TiendaPanes.modelo.Tienda;
 import com.joan.TiendaPanes.modelo.Venta;
+import com.joan.TiendaPanes.persistencia.ConnectionManager;
+import com.joan.TiendaPanes.persistencia.StockDAO;
+import com.joan.TiendaPanes.persistencia.TiendaDAO;
 
 
 /**
